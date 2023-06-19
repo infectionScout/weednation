@@ -1,2 +1,2 @@
 # weednation
-Source files for my websiter
+https://www.weednation.lol
